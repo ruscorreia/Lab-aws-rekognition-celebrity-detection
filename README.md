@@ -35,3 +35,5 @@ O objetivo deste projeto é demonstrar como utilizar o AWS Rekognition para dete
 ## Screenshots
 
 ![Detecção de Celebridades](detected_celebrity1.jpg)
+![Detecção de Celebridades](detected_celebrity2.jpg)
+![Detecção de Celebridades](detected_celebrity3.jpg)
