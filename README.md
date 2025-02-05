@@ -17,7 +17,7 @@ O objetivo deste projeto é demonstrar como utilizar o AWS Rekognition para dete
 
 1. Configurar o AWS CLI com as credenciais corretas.
 2. Instalar as dependências: `boto3` e `opencv-python`.
-3. Executar o Jupyter Notebook `celebrity_detection.ipynb`.
+3. Executar o Jupyter Notebook `aws-Rekognition.ipynb`.
 4. Verificar as imagens geradas com as celebridades detectadas.
 
 ## Insights
